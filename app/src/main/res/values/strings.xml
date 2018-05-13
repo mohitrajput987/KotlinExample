@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinExample</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="logged_in_success">Logged-in successfully</string>
+    <string name="enter_valid_email">Enter a valid email</string>
+</resources>
